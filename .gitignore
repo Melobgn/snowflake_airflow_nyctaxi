@@ -18,3 +18,7 @@ airflow_settings.yaml
 *.parquet
 taxi_zone_lookup.csv
 .DS_Store
+
+data/
+
+test_snowflake.py
